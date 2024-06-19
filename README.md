@@ -1,0 +1,2 @@
+# Community-basedeventticketingmanagementsystem
+ Java毕业设计-基于SSM框架的兴趣社区演出票务管理系统
